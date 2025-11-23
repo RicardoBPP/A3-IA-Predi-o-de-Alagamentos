@@ -64,9 +64,9 @@ def classificar_risco_chuva(mm: float) -> int:
     1 -> Risco de Inundação Transitável
     2 -> Risco de Inundação Intransitável
     """
-    if mm < 5.0:
+    if mm < 20.0:
         return 0
-    elif mm < 25.0:
+    elif mm < 60.0:
         return 1
     else:
         return 2

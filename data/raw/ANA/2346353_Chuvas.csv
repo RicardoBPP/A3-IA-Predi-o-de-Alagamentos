@@ -1,15 +1,15 @@
-Agência Nacional de Águas - ANA
-Superintendência de Gestão da Rede Hidrometeorológica-SGH
-Sistema de Informações Hidrológicas - Versão WEB
+Agï¿½ncia Nacional de ï¿½guas - ANA
+Superintendï¿½ncia de Gestï¿½o da Rede Hidrometeorolï¿½gica-SGH
+Sistema de Informaï¿½ï¿½es Hidrolï¿½gicas - Versï¿½o WEB
 Fone: (61) 2109-5242
 E-mail: hidro@ana.gov.br
 
 NivelConsistencia: 1 = Bruto, 2 = Consistido
-TipoMedicaoChuvas: 1 = Pluviômetro, 2 = Pluviógrafo, 3 = Data logger
+TipoMedicaoChuvas: 1 = Pluviï¿½metro, 2 = Pluviï¿½grafo, 3 = Data logger
 Status: 0 = Branco, 1 = Real, 2 = Estimado, 3 = Duvidoso, 4 = Acumulado
 
-Restrições da consulta:
-Código da Estação:2346353
+Restriï¿½ï¿½es da consulta:
+Cï¿½digo da Estaï¿½ï¿½o:2346353
 
 
 EstacaoCodigo;NivelConsistencia;Data;TipoMedicaoChuvas;Maxima;Total;DiaMaxima;NumDiasDeChuva;MaximaStatus;TotalStatus;NumDiasDeChuvaStatus;TotalAnual;TotalAnualStatus;Chuva01;Chuva02;Chuva03;Chuva04;Chuva05;Chuva06;Chuva07;Chuva08;Chuva09;Chuva10;Chuva11;Chuva12;Chuva13;Chuva14;Chuva15;Chuva16;Chuva17;Chuva18;Chuva19;Chuva20;Chuva21;Chuva22;Chuva23;Chuva24;Chuva25;Chuva26;Chuva27;Chuva28;Chuva29;Chuva30;Chuva31;Chuva01Status;Chuva02Status;Chuva03Status;Chuva04Status;Chuva05Status;Chuva06Status;Chuva07Status;Chuva08Status;Chuva09Status;Chuva10Status;Chuva11Status;Chuva12Status;Chuva13Status;Chuva14Status;Chuva15Status;Chuva16Status;Chuva17Status;Chuva18Status;Chuva19Status;Chuva20Status;Chuva21Status;Chuva22Status;Chuva23Status;Chuva24Status;Chuva25Status;Chuva26Status;Chuva27Status;Chuva28Status;Chuva29Status;Chuva30Status;Chuva31Status
