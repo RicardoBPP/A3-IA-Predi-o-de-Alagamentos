@@ -1,0 +1,4 @@
+GEO_URL = https://geosampa.prefeitura.sp.gov.br/  # mapa
+WFS_URL = http://wfs.geosampa.prefeitura.sp.gov.br/geoserver/geoportal/wfs  # serviço WFS
+WMS_URL = http://wms.geosampa.prefeitura.sp.gov.br/geoserver/geoportal/wms  # serviço WMS
+DIC_URL = https://metadados.geosampa.prefeitura.sp.gov.br/geonetwork/srv/por/catalog.search#/metadata/50af50c9-6b3d-4c2f-a22e-3e87b7f477d6  

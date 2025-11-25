@@ -1,0 +1,12 @@
+Dia 1 - 22,62mm  Dia 1 - 87,14mm  Dia 1 - 18,02mm
+Dia 2 - 8,05mm   Dia 2 - 68,92mm  Dia 2 - 62,61mm
+Dia 3 - 0mm      Dia 3 - 12,15mm  Dia 3 - 12,48mm
+Dia 4 - 0mm      Dia 4 - 0,00mm   Dia 4 - 4,08mm
+
+cd C:\Users\rbpon\OneDrive\Documents\GitHub\GS\A3-IA-Predi-o-de-Alagamentos
+py -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+
+streamlit run app/app_risco_inundacao.py
+streamlit run app/app_risco_inundacao_completo.py
